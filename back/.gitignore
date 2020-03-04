@@ -1,0 +1,9 @@
+# Dependency directories
+node_modules/
+# DB connection and Config
+#config/
+# dotenv environment variables file
+.env.test
+#package json
+package.json
+config/config.json
