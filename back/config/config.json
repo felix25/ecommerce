@@ -1,0 +1,23 @@
+{
+    "development": {
+      "username": "luis",
+      "password": "luis",
+      "database": "dbecommerce",
+      "host": "localhost",
+      "dialect": "postgres",
+      "operatorAliases": false,
+      "logging": false
+    },
+    "production": {
+      "username": "root",
+      "password": null,
+      "database": "database_production",
+      "host": "localhost",
+      "dialect": "postgres",
+      "operatorAliases": false,
+      "logging": false
+    },
+    "env":{
+      "url": "http://localhost:9800/api"
+    }
+  }
